@@ -37,8 +37,12 @@ h3 {
 
 }
 
+button {
+  cursor: pointer;
+}
+
 .button-icon {
-  width: 20px; 
+  width: 10px; 
 }
 
 .icon {
