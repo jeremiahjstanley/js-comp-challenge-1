@@ -119,6 +119,12 @@ button {
   justify-content: space-between;
 }
 
+.position-icon {
+  position: absolute;
+  top: 1%;
+  right: 1%;
+  width: 5%;
+}
 
 .slider-icon {
   width: 35%;
@@ -291,6 +297,10 @@ h3 {
 /* Row 4 */
 
 .slider {
+  display: none;
+}
+
+.position-icon {
   display: none;
 }
 
